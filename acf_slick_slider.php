@@ -4,7 +4,7 @@
  * Plugin URI: https://wordpress.org/plugins/acf-slick-slider/
  * Description: An extension for Advance Custom Fields Pro which lets you add multiple slider.
  * Version: 1.4.0
- * Author: Jayson Garcia (Github - hallowichig0)
+ * Author: Jayson Garcia (Github - jaysonegarcia)
  * Author URI: http://jegson.herokuapp.com
  * License: GPLv2 or later
  * License URI: http://www.gnu.org/licenses/gpl-2.0.html

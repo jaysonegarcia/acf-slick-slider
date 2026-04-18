@@ -1,5 +1,5 @@
 === ACF Slick Slider ===
-Contributors: hallowichig0
+Contributors: jaysonegarcia
 Tags: acf, advanced, custom, flexible content, photo, slider
 Requires at least: 3.8
 Tested up to: 5.3
